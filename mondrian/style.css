@@ -1,0 +1,32 @@
+.container{
+    background-color:yellow;
+    display: grid;
+    grid-template-columns: auto auto auto auto; 
+    grid-gap: 10px;
+    height: 650px;
+}
+
+.item{
+    background-color:teal;
+    color: yellow;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.potato1{
+    grid-column-start: 1;
+    grid-column: 3;
+
+
+}
+
+.potato6{
+    grid-row-start: 2;
+    grid-row-end: 4;
+    grid-column-start: 3;
+    grid-column-end: 4;
+
+}
+
