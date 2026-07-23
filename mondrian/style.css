@@ -23,7 +23,7 @@
 }
 
 .potato6{
-    backround-color:yellow;
+    background-color:yellow;
     grid-row-start: 2;
     grid-row-end: 4;
     grid-column-start: 3;
@@ -32,13 +32,13 @@
 }
 
 .potato7{
-backround-color:red;
+background-color:red;
 
 }
 
 
 .potato3{
-backround-color:blue
+background-color:blue
 
 
 }
